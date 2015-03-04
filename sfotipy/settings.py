@@ -37,9 +37,9 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'home',
-   # 'tracks',
-    #'albums',
-    #'artists',
+    'tracks',
+    'artists',
+    'albums',
 )
 
 MIDDLEWARE_CLASSES = (
